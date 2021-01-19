@@ -1,7 +1,4 @@
 # Test Flutter App "Color changer"
-
-Test Flutter application. Color changer.
-
 ## Task
 Create a test application
 The application should: display the text "Hey there" in the middle of the screen and</br>after tapping anywhere on the screen a background color should be changed to a random color.</br>You can also add any other feature to the app - that adds bonus points.
